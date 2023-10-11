@@ -1,4 +1,4 @@
-> ## View the entire tutorial on [GameDev Resources](https://gamedev-resources.com/create-a-spatial-inventory-with-ui-toolkit-part-1/).
+> View the entire tutorial on [What Up Games](https://www.whatupgames.com).
 > 
 # Introduction
 
